@@ -1,0 +1,9 @@
+D:\DOC\Telerik\HomeWork2\DeclareVariables\BankAccountData11\bin\Debug\BankAccountData11.exe.config
+D:\DOC\Telerik\HomeWork2\DeclareVariables\BankAccountData11\bin\Debug\BankAccountData11.exe
+D:\DOC\Telerik\HomeWork2\DeclareVariables\BankAccountData11\bin\Debug\BankAccountData11.pdb
+D:\DOC\Telerik\HomeWork2\DeclareVariables\BankAccountData11\obj\Debug\BankAccountData11.exe
+D:\DOC\Telerik\HomeWork2\DeclareVariables\BankAccountData11\obj\Debug\BankAccountData11.pdb
+D:\DOC\Telerik\HomeWork2\DeclareVariables\BankAccountData11\obj\Debug\BankAccountData11.csprojResolveAssemblyReference.cache
+C:\Users\VSK\Desktop\New folder\HW-PrimitiveDataTypesandVariables-3026680\BankAccountData11\bin\Debug\BankAccountData11.exe.config
+C:\Users\VSK\Desktop\New folder\HW-PrimitiveDataTypesandVariables-3026680\BankAccountData11\obj\Debug\BankAccountData11.exe
+C:\Users\VSK\Desktop\New folder\HW-PrimitiveDataTypesandVariables-3026680\BankAccountData11\obj\Debug\BankAccountData11.pdb

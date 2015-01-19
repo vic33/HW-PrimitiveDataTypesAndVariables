@@ -1,0 +1,5 @@
+D:\DOC\Telerik\HomeWork2\DeclareVariables\Comparing Floats13\bin\Debug\Comparing Floats13.exe.config
+D:\DOC\Telerik\HomeWork2\DeclareVariables\Comparing Floats13\bin\Debug\Comparing Floats13.exe
+D:\DOC\Telerik\HomeWork2\DeclareVariables\Comparing Floats13\bin\Debug\Comparing Floats13.pdb
+D:\DOC\Telerik\HomeWork2\DeclareVariables\Comparing Floats13\obj\Debug\Comparing Floats13.exe
+D:\DOC\Telerik\HomeWork2\DeclareVariables\Comparing Floats13\obj\Debug\Comparing Floats13.pdb

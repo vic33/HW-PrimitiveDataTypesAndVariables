@@ -1,0 +1,5 @@
+D:\DOC\Telerik\HomeWork2\DeclareVariables\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+D:\DOC\Telerik\HomeWork2\DeclareVariables\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+D:\DOC\Telerik\HomeWork2\DeclareVariables\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
+D:\DOC\Telerik\HomeWork2\DeclareVariables\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+D:\DOC\Telerik\HomeWork2\DeclareVariables\FloatOrDouble\obj\Debug\FloatOrDouble.pdb

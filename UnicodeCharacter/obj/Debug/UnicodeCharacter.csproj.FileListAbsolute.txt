@@ -1,0 +1,5 @@
+D:\DOC\Telerik\HomeWork2\DeclareVariables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config
+D:\DOC\Telerik\HomeWork2\DeclareVariables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe
+D:\DOC\Telerik\HomeWork2\DeclareVariables\UnicodeCharacter\bin\Debug\UnicodeCharacter.pdb
+D:\DOC\Telerik\HomeWork2\DeclareVariables\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
+D:\DOC\Telerik\HomeWork2\DeclareVariables\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb

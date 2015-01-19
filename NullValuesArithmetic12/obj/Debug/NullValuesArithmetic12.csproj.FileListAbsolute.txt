@@ -1,0 +1,5 @@
+D:\DOC\Telerik\HomeWork2\DeclareVariables\NullValuesArithmetic12\bin\Debug\NullValuesArithmetic12.exe.config
+D:\DOC\Telerik\HomeWork2\DeclareVariables\NullValuesArithmetic12\bin\Debug\NullValuesArithmetic12.exe
+D:\DOC\Telerik\HomeWork2\DeclareVariables\NullValuesArithmetic12\bin\Debug\NullValuesArithmetic12.pdb
+D:\DOC\Telerik\HomeWork2\DeclareVariables\NullValuesArithmetic12\obj\Debug\NullValuesArithmetic12.exe
+D:\DOC\Telerik\HomeWork2\DeclareVariables\NullValuesArithmetic12\obj\Debug\NullValuesArithmetic12.pdb

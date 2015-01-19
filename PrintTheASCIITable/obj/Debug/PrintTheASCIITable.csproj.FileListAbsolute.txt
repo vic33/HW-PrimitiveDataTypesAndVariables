@@ -1,0 +1,5 @@
+D:\DOC\Telerik\HomeWork2\DeclareVariables\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.exe.config
+D:\DOC\Telerik\HomeWork2\DeclareVariables\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.exe
+D:\DOC\Telerik\HomeWork2\DeclareVariables\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.pdb
+D:\DOC\Telerik\HomeWork2\DeclareVariables\PrintTheASCIITable\obj\Debug\PrintTheASCIITable.exe
+D:\DOC\Telerik\HomeWork2\DeclareVariables\PrintTheASCIITable\obj\Debug\PrintTheASCIITable.pdb

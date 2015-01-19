@@ -1,0 +1,5 @@
+D:\DOC\Telerik\HomeWork2\DeclareVariables\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
+D:\DOC\Telerik\HomeWork2\DeclareVariables\QuotesInStrings\bin\Debug\QuotesInStrings.exe
+D:\DOC\Telerik\HomeWork2\DeclareVariables\QuotesInStrings\bin\Debug\QuotesInStrings.pdb
+D:\DOC\Telerik\HomeWork2\DeclareVariables\QuotesInStrings\obj\Debug\QuotesInStrings.exe
+D:\DOC\Telerik\HomeWork2\DeclareVariables\QuotesInStrings\obj\Debug\QuotesInStrings.pdb

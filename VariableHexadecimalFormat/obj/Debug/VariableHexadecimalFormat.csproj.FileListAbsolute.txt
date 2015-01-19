@@ -1,0 +1,5 @@
+D:\DOC\Telerik\HomeWork2\DeclareVariables\VariableHexadecimalFormat\bin\Debug\VariableHexadecimalFormat.exe.config
+D:\DOC\Telerik\HomeWork2\DeclareVariables\VariableHexadecimalFormat\bin\Debug\VariableHexadecimalFormat.exe
+D:\DOC\Telerik\HomeWork2\DeclareVariables\VariableHexadecimalFormat\bin\Debug\VariableHexadecimalFormat.pdb
+D:\DOC\Telerik\HomeWork2\DeclareVariables\VariableHexadecimalFormat\obj\Debug\VariableHexadecimalFormat.exe
+D:\DOC\Telerik\HomeWork2\DeclareVariables\VariableHexadecimalFormat\obj\Debug\VariableHexadecimalFormat.pdb

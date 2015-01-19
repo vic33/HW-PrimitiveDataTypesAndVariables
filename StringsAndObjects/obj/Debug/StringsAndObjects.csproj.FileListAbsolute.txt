@@ -1,0 +1,5 @@
+D:\DOC\Telerik\HomeWork2\DeclareVariables\StringsAndObjects\bin\Debug\StringsAndObjects.exe.config
+D:\DOC\Telerik\HomeWork2\DeclareVariables\StringsAndObjects\bin\Debug\StringsAndObjects.exe
+D:\DOC\Telerik\HomeWork2\DeclareVariables\StringsAndObjects\bin\Debug\StringsAndObjects.pdb
+D:\DOC\Telerik\HomeWork2\DeclareVariables\StringsAndObjects\obj\Debug\StringsAndObjects.exe
+D:\DOC\Telerik\HomeWork2\DeclareVariables\StringsAndObjects\obj\Debug\StringsAndObjects.pdb

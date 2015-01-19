@@ -1,0 +1,5 @@
+D:\DOC\Telerik\HomeWork2\DeclareVariables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+D:\DOC\Telerik\HomeWork2\DeclareVariables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+D:\DOC\Telerik\HomeWork2\DeclareVariables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+D:\DOC\Telerik\HomeWork2\DeclareVariables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+D:\DOC\Telerik\HomeWork2\DeclareVariables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb

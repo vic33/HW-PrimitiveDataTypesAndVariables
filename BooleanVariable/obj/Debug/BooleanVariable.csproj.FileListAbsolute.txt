@@ -1,0 +1,5 @@
+D:\DOC\Telerik\HomeWork2\DeclareVariables\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+D:\DOC\Telerik\HomeWork2\DeclareVariables\BooleanVariable\bin\Debug\BooleanVariable.exe
+D:\DOC\Telerik\HomeWork2\DeclareVariables\BooleanVariable\bin\Debug\BooleanVariable.pdb
+D:\DOC\Telerik\HomeWork2\DeclareVariables\BooleanVariable\obj\Debug\BooleanVariable.exe
+D:\DOC\Telerik\HomeWork2\DeclareVariables\BooleanVariable\obj\Debug\BooleanVariable.pdb

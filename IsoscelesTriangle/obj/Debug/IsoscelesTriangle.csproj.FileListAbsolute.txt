@@ -1,0 +1,5 @@
+D:\DOC\Telerik\HomeWork2\DeclareVariables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe.config
+D:\DOC\Telerik\HomeWork2\DeclareVariables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe
+D:\DOC\Telerik\HomeWork2\DeclareVariables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.pdb
+D:\DOC\Telerik\HomeWork2\DeclareVariables\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
+D:\DOC\Telerik\HomeWork2\DeclareVariables\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb
